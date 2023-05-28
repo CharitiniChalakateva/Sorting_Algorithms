@@ -21,28 +21,28 @@ Each folder contains the code for a particular sorting algorithm in these progra
 Usage examples:
 
 ### PYTHON
-To run the Bubble Sort algorithm in Python, follow these steps:
+To run the sorting algorithms in Python, follow these steps:
 
     ```bash
     cd python
     python (name of the sorting algorithm).py
 
 ### JAVA
-To run the Selection Sort algorithm in Java, follow these steps:
+To run the sorting algorithms in Java, follow these steps:
 
     cd java
     javac (name of the sorting algorithm).java
     java (name of the sorting algorithm)
 
 ### C++
-To run the Quick Sort algorithm in C++, follow these steps:
+To run the sorting algorithms in C++, follow these steps:
 
     cd cpp
     g++ (name of the sorting algorithm) -o (name of the sorting algorithm)
     ./(name of the sorting algorithm)
 
 ### C
-To run the Insertion Sort algorithm in C language, follow these steps:
+To run the sorting algorithms in C language, follow these steps:
 
     cd c
     gcc (name of the sorting algorithm).c -o (name of the sorting algorithm)
